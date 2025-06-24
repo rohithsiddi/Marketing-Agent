@@ -39,7 +39,7 @@ def push(text: str) -> str:
 
 
 def get_file_tools():
-    toolkit = FileManagementToolkit(root_dir=os.getenv("FILE_TOOL_ROOT", "sandbox"))
+    toolkit = FileManagementToolkit(root_dir=os.getenv("FILE_TOOL_ROOT", "reports"))
     return toolkit.get_tools()
 
 async def other_tools() -> list[Tool]:
