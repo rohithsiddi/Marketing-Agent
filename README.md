@@ -73,7 +73,7 @@ SERPER_API_KEY=your_serper_api_key
 LANGCHAIN_API_KEY=your_langsmith_api_key
 
 # File Management Tool
-FILE_TOOL_ROOT=sandbox              # Root directory for file management tools
+FILE_TOOL_ROOT=reports              # Root directory for file management tools
 
 # Pushover Notifications (optional)
 PUSHOVER_TOKEN=your_pushover_token
