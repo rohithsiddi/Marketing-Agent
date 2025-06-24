@@ -33,7 +33,7 @@ cd AgentFlow
 ### 2. Install Dependencies
 Make sure you have Python 3.10+ and pip installed.
 ```bash
-pip install -r ../requirements_created_by_me.txt
+pip install -r requirements.txt
 ```
 
 ### 3. (Optional) Set Up Google Calendar API
